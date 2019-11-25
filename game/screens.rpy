@@ -1464,7 +1464,7 @@ init python:
     g.button("EMA Hallway")
     g.unlock_image("bg hallway")
 
-screen gallery:
+screen gallery():
 
     # Ensure this replaces the main menu.
     tag menu
@@ -1498,7 +1498,7 @@ init python:
     mr.add("music/leave-bad.ogg")
     mr.add("music/stay-bad.ogg")
 
-screen music_room:
+screen music_room():
     tag menu
 
     frame:
@@ -1534,7 +1534,7 @@ screen music_room:
 #################################################
 # Stats Display
 
-screen guide:
+screen guide():
     default show_guide = False
     if show_guide:
         textbutton "Hide Guide" action SetScreenVariable("show_guide", False)
@@ -1544,7 +1544,7 @@ screen guide:
     else:
         textbutton "Show Guide" action SetScreenVariable("show_guide", True)
 
-screen stats:
+screen stats():
     frame:
         padding (20, 10)
         margin (40, 20)

@@ -14,22 +14,22 @@ label dayx:
     window show
 
     nvl_narrator """
-    {font=AlexBrush-Regular.ttf}{size=40}\n\nDear Sage [mc_name],
+    {font=AlexBrush-Regular.ttf}{size=40}\n\nDear Sage [mc_name],{/size}{/font}
 
-    {size=40}{font=AlexBrush-Regular.ttf}This is our third and final contact to you. We have had some trouble reaching you via post given your recent move to Elwik and subsequent placement as the aguen sage of said school.
+    {size=40}{font=AlexBrush-Regular.ttf}This is our third and final contact to you. We have had some trouble reaching you via post given your recent move to Elwik and subsequent placement as the aguen sage of said school.{/font}{/size}
 
-    {size=40}{font=AlexBrush-Regular.ttf}Your application reached our offices two months after its deadline, and as per policy, we kept the application sealed and placed it in storage. It has come to our attention that, at no fault of your own, the delivery of your application was delayed a full two months.
+    {size=40}{font=AlexBrush-Regular.ttf}Your application reached our offices two months after its deadline, and as per policy, we kept the application sealed and placed it in storage. It has come to our attention that, at no fault of your own, the delivery of your application was delayed a full two months.{/font}{/size}
 
     {clear}
 
-    {size=40}{font=AlexBrush-Regular.ttf}\n\nGiven your current position and excellent reputation, in addition to our recent opening of the position for aguen sage at Lythwin Royal Academy, we are contacting you to accept your application to the position.
+    {size=40}{font=AlexBrush-Regular.ttf}\n\nGiven your current position and excellent reputation, in addition to our recent opening of the position for aguen sage at Lythwin Royal Academy, we are contacting you to accept your application to the position.{/font}{/size}
 
-    {size=40}{font=AlexBrush-Regular.ttf}Should you decide to transfer to LRA, we will need a response to this acceptance as soon as possible.
+    {size=40}{font=AlexBrush-Regular.ttf}Should you decide to transfer to LRA, we will need a response to this acceptance as soon as possible.{/font}{/size}
 
-    {size=40}{font=AlexBrush-Regular.ttf}Sincerely,\n
-    {size=40}{font=AlexBrush-Regular.ttf}Archmage Lanithean Aimel VII\n
-    {size=40}{font=AlexBrush-Regular.ttf}School of Elemental Studies\n
-    {size=40}{font=AlexBrush-Regular.ttf}Lythwin Royal Academy\n
+    {size=40}{font=AlexBrush-Regular.ttf}Sincerely,\n{/font}{/size}
+    {size=40}{font=AlexBrush-Regular.ttf}Archmage Lanithean Aimel VII\n{/font}{/size}
+    {size=40}{font=AlexBrush-Regular.ttf}School of Elemental Studies\n{/font}{/size}
+    {size=40}{font=AlexBrush-Regular.ttf}Lythwin Royal Academy\n{/font}{/size}
     """
 
     nvl clear
@@ -203,9 +203,9 @@ label ending3:
             incident = "a fire-wielding classmate"
 
     nvl_narrator """
-    {font=AlexBrush-Regular.ttf}{size=40}\n\nSage [mc_name],
+    {font=AlexBrush-Regular.ttf}{size=40}\n\nSage [mc_name],{/size}{/font}
 
-    {font=AlexBrush-Regular.ttf}{size=40}We regret to inform you that [dead_student] has passed in an accident involving [incident]. Although sages were present and enforcers were brought to the scene immediately, [dead_pronoun] unfortunately passed despite healing attempts.
+    {font=AlexBrush-Regular.ttf}{size=40}We regret to inform you that [dead_student] has passed in an accident involving [incident]. Although sages were present and enforcers were brought to the scene immediately, [dead_pronoun] unfortunately passed despite healing attempts.{/size}{/font}
     """
 
     play sound "sfx/paper.wav"
