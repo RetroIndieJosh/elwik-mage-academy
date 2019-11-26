@@ -1,0 +1,13 @@
+me - Tierney (MC) - ? Human - Air - Ambitious/Pragmatic/Bookworm
+
+[TEACHERS]
+M - Metna Mundrie - F Human 25 - Fire - Ambitious
+H - Hulda Ruun - F Galan 45 - Water - Docile
+V - Vyava Harika - M Galan 50 - Earth - Pragmatic/Moody
+K - Kokay Umar - M Human 30 - Air - Whimsical/Romantically Indecisive
+
+[STUDENTS - 15]
+L - Lud Glava - M Galan - Magma - Hothead/Jock
+A - Atya Zhuvaty - F Human - Plant - Genre-Savvy
+K - Karst Shandisa - M Human - Ice - Manipulative/Problem-Solver
+C - Chiyem Bekezo - F Galan - Lightning - Optimist
